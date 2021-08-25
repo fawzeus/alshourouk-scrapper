@@ -1,2 +1,2 @@
 # alshourouk-scrapper
--- scrape data from al shourouk uing sele,ium and beautiful soup
+-- scrape data from alshourouk uing seleium and beautifulsoup
